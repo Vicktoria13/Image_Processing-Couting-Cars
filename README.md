@@ -12,3 +12,11 @@ Hough transformation
 -Median filter
 -Movement detection
 -Edge detection
+
+
+![Alt text](images/res_counting_cars.png)
+
+
+## How to count : moving box crossing the line
+
+![Alt text](images/cout.png)
